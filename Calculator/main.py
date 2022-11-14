@@ -22,7 +22,7 @@ def calculate(s):
             return operators[operator](calculate(left), calculate(right))
     else:
         print('Erro! Não insira espaços no input!')
-print("Operações disponiveis \n+ soma \n- subtração \n/ divisão \n% resto \n** potência \nsqrt raiz quadrada")
+print("Operações disponiveis \n+ soma \n- subtração \n/ divisão \n% resto \n^ potência \nsqrt raiz quadrada")
 calc = input("Insira a conta a calcular:\n")
 print(calculate(calc))
 
