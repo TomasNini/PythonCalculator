@@ -11,3 +11,6 @@
 **Potência** (base\**expoente) 2**2 = 4 \
 **Resto** da divisão 2%2 = 0 \
 **Raíz** Quadrada sqrt9 = 3 
+**Adcionar Percentagem** 100+%10 = 110 \
+**Remover Percentagem** 100-%10 = 90 \
+
