@@ -7,6 +7,7 @@
 \
 **Soma** 2+2 = 4 \
 **Multiplicar** 2*2 = 4 \
+**Subtração** 2-2 = 0 \
 **Dividir** 2/2 = 1 \
 **Potência** (base\**expoente) 2**2 = 4 \
 **Resto da divisão** 2%2 = 0 \
